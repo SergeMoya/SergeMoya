@@ -1,17 +1,18 @@
 # 👋 Hi there, I'm a Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](https://defi-dashboard-gold.vercel.app/)
-[![Publication](https://img.shields.io/badge/Research-Publication-orange?style=flat-square&logo=google-scholar)](https://doi.org/10.1109/ECBIOS51820.2021.9510541)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/sergeizida/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](https://www.sergezida.com/)
+[![Publication](https://img.shields.io/badge/Research-Publication-orange?style=flat-square&logo=google-scholar)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=serge+ismael+zida&oq=serge)
 
 ## 💫 About Me
-Full Stack Engineer with expertise in healthcare applications, blockchain systems, and machine learning. I specialize in building scalable applications with modern web technologies and have published research in edge computing systems for healthcare.
+Full Stack Engineer who architects and implements impactful solutions. I transform complex challenges into scalable systems. My passion is crafting elegant architectures that solve real-world problems.
 
-### 🚀 What I'm Up To
+### 🚀 What I'm Up To Recently
+- 📱 Mobile app development with React Native
 - 🏥 Leading development of healthcare monitoring applications
 - 🌐 Building blockchains platforms and trading systems
-- 🔬 Research in Machine Learning healthcare predictions
-- 📱 Mobile app development with React Native
+- 🔬 Research in Machine Learning predictions
+
 
 ## 🛠️ Tech Stack
 ```javascript
